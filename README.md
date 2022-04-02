@@ -1,7 +1,7 @@
 # Google Calendar Next Event Notifier
 
-A simple script that tells you of the next event on your google calendar
--------------
+<strong>A simple script that tells you of the next event on your google calendar</strong>
+
 
 # Pre-requisites
 - Install [Node.js](https://nodejs.org/en/) version 16.11.0+
