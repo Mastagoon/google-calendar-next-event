@@ -9,16 +9,16 @@ A simple script that tells you of the next event on your google calendar
 # Getting started
 - Clone the repository
 ```
-git clone https://github.com/mastagoon/google-calender-next-event
+git clone https://github.com/mastagoon/google-calendar-next-event
 ```
 - Install dependencies
 ```
-cd google-calender-next-event
+cd google-calendar-next-event
 npm install
 ```
 - Or using yarn
 ```
-cd google-calender-next-event
+cd google-calendar-next-event
 yarn
 ```
 - Copy and rpelace the environment variables
