@@ -1,0 +1,18 @@
+{
+    "name": "google-calender-next-event",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "dotenv": "^16.0.0",
+        "googleapis": "^100.0.0",
+        "node-notifier": "^10.0.1"
+    },
+    "devDependencies": {
+        "@types/node": "^17.0.23",
+        "@types/node-notifier": "^8.0.2"
+    },
+    "scripts": {
+        "dev": "node dist/main"
+    }
+}
